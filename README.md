@@ -2,19 +2,18 @@
 
 > Instant pop-up definitions anywhere on the web. Double-click to see the definition.
 
----
-
 ## What is it?
 
-A lightweight browser extension that brings the dictionary to you. Just double-click any word on any webpage and get its definition in a sleek popup — no new tabs, no copy-pasting.
+## A lightweight browser extension that brings the dictionary to you. Just double-click any word on any webpage and get its definition in a sleek popup - no new tabs, no copy-pasting.
+
 ---
 
 ## ✨ Features
 
-- 📖 **Instant Definitions** — Double-click any word to see its meaning
-- 🎯 **Non-intrusive** — Popup appears right where you click
-- ⌨️ **Customizable Trigger** — Optional modifier key for more control
-- 🌐 **Works Everywhere** — Any website, any text
+- 📖 **Instant Definitions** - Double-click any word to see its meaning
+- 🎯 **Non-intrusive** - Popup appears right where you click
+- ⌨️ **Customizable Trigger** - Optional modifier key for more control
+- 🌐 **Works Everywhere** - Any website, any text
 
 ---
 
