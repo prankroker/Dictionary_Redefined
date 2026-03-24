@@ -1,6 +1,6 @@
 {
   "name": "dictionaryredefined",
-  "description": "manifest.json description",
+  "description": "Instant pop-up definitions anywhere on the web. Double-click to see the definition.",
   "private": true,
   "version": "1.0.0",
   "type": "module",

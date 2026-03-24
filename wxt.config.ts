@@ -12,6 +12,15 @@ export default defineConfig({
       "48": "icon/48icon.png",
       "96": "icon/96icon.png",
       "128": "icon/128icon.png",
+    },
+    browser_specific_settings: {
+      gecko: {
+        id: "dictionary-redefined@prankroker",
+        strict_min_version: "109.0",
+        data_collection_permissions: {
+          "required": ["none"]
+        }
+      }  as any
     }
   },
   srcDir: 'src',
